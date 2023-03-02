@@ -60,3 +60,11 @@ footer .footer img {
   width: 9.2em;
   height: auto;
 }
+
+footer .footer h6 {
+  color: #607d8b;
+  font-size: .625em;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}
